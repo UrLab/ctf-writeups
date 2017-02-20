@@ -19,7 +19,7 @@ The 10 top teams won a seat at the finals.
 
 ## Cryptography
 
-* "Tu quoque mi fili 2.0 " 70 points
+* "Tu quoque mi fili 2.0" 70 points
 * "Venona project" 270 points
 * "Morning Star" 350 points
 * "History" 250 points
