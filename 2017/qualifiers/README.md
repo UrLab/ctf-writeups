@@ -5,51 +5,51 @@ The 10 top teams won a seat at the finals.
 
 ## Reverse
 
-* "Adôbe Illustrateur" 175 points, Reverse
-* "Custom encoding" 450 points, Reverse
-* "This looks easy" 50 points, Reverse
-* "No plain anymore" 100 points, Reverse
-* "I am not that attaching" 120 points, Reverse
+* "Adôbe Illustrateur" 175 points
+* "Custom encoding" 450 points
+* "This looks easy" 50 points
+* "No plain anymore" 100 points
+* "I am not that attaching" 120 points
 
 ## Steganography
 
-* "Funky Town" 100 points, Steganography
-* "Where is waldo ?" 33 points, Steganography
-* "This looks like a foreign language" 150 points, Steganography
+* "Funky Town" 100 points
+* ["Where is waldo ?"](steganography/where-is-waldo) 33 points
+* "This looks like a foreign language" 150 points
 
 ## Cryptography
 
-* "Tu quoque mi fili 2.0 " 70 points, Cryptography
-* "Venona project" 270 points, Cryptography
-* "Morning Star" 350 points, Cryptography
-* "History" 250 points, Cryptography
-* "Dumb friend" 200 points, Cryptography
-* "Casino" 400 points, Cryptography
-* "I hate russian hackers" 200 points, Cryptography
+* "Tu quoque mi fili 2.0 " 70 points
+* "Venona project" 270 points
+* "Morning Star" 350 points
+* "History" 250 points
+* "Dumb friend" 200 points
+* "Casino" 400 points
+* "I hate russian hackers" 200 points
 
 ## Web
 
-* "Skyblog" 250 points, Web
-* "Fries O'Clock" 250 points, Web
+* ["Skyblog"](web/skyblog) 250 points
+* "Fries O'Clock" 250 points
 
 ## AppSys
 
-* "Pr1s0n Br34k" 270 points, AppSys
-* "2f4st2fur10us" 150 points, AppSys
-* "Houston, we have a problem" 100 points, AppSys
-* "Artificial intelligence" 150 points, AppSys
-* "I see inside the matrix" 150 points, AppSys
+* "Pr1s0n Br34k" 270 points
+* "2f4st2fur10us" 150 points
+* "Houston, we have a problem" 100 points
+* "Artificial intelligence" 150 points
+* "I see inside the matrix" 150 points
 
 ## Networking
 
-* "You should frame it" 70 points, Networking
-* "Private conversation " 250 points, Networking
+* "You should frame it" 70 points
+* "Private conversation " 250 points
 
 ## Forensics
 
-* "Slut machine" 350 points, Forensics
-* "Perquisition 3" 300 points, Forensics
-* "Perquisition 2" 150 points, Forensics
-* "Perquisition" 100 points, Forensics
-* "DEA" 100 points, Forensics
+* "Slut machine" 350 points
+* "Perquisition 3" 300 points
+* "Perquisition 2" 150 points
+* "Perquisition" 100 points
+* "DEA" 100 points
 
