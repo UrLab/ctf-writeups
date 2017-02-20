@@ -14,6 +14,8 @@
 > **WARNING: do NOT use automated tools like wapiti or nikto**
 
 
+![screenshot](./screenshot.png)
+
 ## Solution
 
 You have a website of a blog. When you click on a blog post, you get an url like this : `http://challenges.urlab.be:16904/post/1%20-%20Hello%20World.md`. You have to try some local file injection by manipulation the url.
