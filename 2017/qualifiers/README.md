@@ -19,13 +19,13 @@ The 10 top teams won a seat at the finals.
 
 ## Cryptography
 
-* "Tu quoque mi fili 2.0" 70 points
+* ["Tu quoque mi fili 2.0"](cryptography/tu_quoque_mi_fili_2.0) 70 points
 * "Venona project" 270 points
 * "Morning Star" 350 points
 * "History" 250 points
 * "Dumb friend" 200 points
 * "Casino" 400 points
-* "I hate russian hackers" 200 points
+* ["I hate russian hackers"](cryptography/I hate russian hackers) 200 points
 
 ## Web
 
@@ -34,8 +34,8 @@ The 10 top teams won a seat at the finals.
 
 ## AppSys
 
-* "Pr1s0n Br34k" 270 points
-* "2f4st2fur10us" 150 points
+* ["Pr1s0n Br34k"](appSys/Pr1s0n Br34k) 270 points
+* ["2f4st2fur10us"](appSys/2f4st2fur10us) 150 points
 * "Houston, we have a problem" 100 points
 * "Artificial intelligence" 150 points
 * "I see inside the matrix" 150 points
@@ -51,5 +51,5 @@ The 10 top teams won a seat at the finals.
 * "Perquisition 3" 300 points
 * "Perquisition 2" 150 points
 * "Perquisition" 100 points
-* "DEA" 100 points
+* ["DEA"](forensics/DEA) 100 points
 
