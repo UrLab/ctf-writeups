@@ -17,7 +17,7 @@ users home directory and lists its content via ls -la (because for this user the
 
 Once you have the file list you can see that a file named "flag.txt" exists (Unfortunately due to the permissions of this files you cannot simply read it out via the user
 of problem statement 2f4st2fur10us, it would have been to easy). Of course you want to get the file content. There are multiple ways to read out a file content via shell
-buildins commands alone. One way to write a stupid for loop in order to iterate over the file content. But I prefer the much more shorter command:
+buildins commands alone. One way is to write a stupid for loop in order to iterate over the file content. But I prefer the much more shorter command:
 
 echo $(<flag.txt)
 

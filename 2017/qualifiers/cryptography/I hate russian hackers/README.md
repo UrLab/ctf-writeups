@@ -20,9 +20,9 @@ we can see that this block is gone:
     00000070  4d 35 39 41 42 55 47 0b  54 73 4d 35 39 41 42 55  |M59ABUG.TsM59ABU|
     00000080  47 0b 54 73 4d 35 39 41  42 55 47 0b 54 73 4d 35  |G.TsM59ABUG.TsM5|
 
-Instead, the repeated occurence of 0x0b 0x54 0x73 0x4d 0x35 0x39 0x41 0x42 0x55 0x47. So the image is encrypted by using
+Instead, the repeated occurence of 0x0b 0x54 0x73 0x4d 0x35 0x39 0x41 0x42 0x55 0x47 can be noticed. So the image is encrypted by using
 the very simplistic vignere encryption algorithm (with the key 0x0b^0x01 0x54^0x01 0x73^0x01 0x4d^0x01 0x35^0x01 0x39^0x01 0x41^0x01 0x42^0x01 0x55^0x01 0x47^0x01,
-since we expect 0x01 to be at the corresponding positions). So to decrypt these images we can write us a script like:
+since we expect 0x01 to be at the corresponding positions). So to decrypt these images we can write use a script like:
 
     key = [ 85, 114, 76, 52, 56, 64, 67, 84, 70, 10 ]
     
