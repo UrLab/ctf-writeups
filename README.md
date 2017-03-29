@@ -5,7 +5,7 @@ Feel free to submit a pull request to add a new writeup or add your own solution
 # Phases
 
 * [Qualifiers 2017](./2017/qualifiers)
-* Finals 2017 (soon)
+* [Finals 2017](./2017/finals)
 
 # Website
 
