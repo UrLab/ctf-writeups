@@ -21,7 +21,7 @@ Goto Fail 200 points
 Server backup 250 points
 
 ## Web
-Microseconds 250 points
+[Microseconds](web/microseconds) 250 points
 Skyblog 3 250 points
 Skyblog 2 200 points
 Macrosite 300 points
